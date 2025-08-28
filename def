@@ -1,0 +1,10 @@
+process_array = [(P1, 3, 6, 1), (P2, 4, 3, 4), (P3, 2, 1, 2)]
+print(process_array[0][0]
+
+
+
+
+""" element [0] = name
+    element [1] = arrival time
+    element [2] = burst time
+    element [3] = priority """
